@@ -1,0 +1,14 @@
+/home/zohair/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/zohair/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/zohair/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/zohair/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/zohair/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/zohair/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/zohair/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/zohair/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/zohair/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/zohair/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/zohair/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/zohair/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/zohair/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/zohair/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
